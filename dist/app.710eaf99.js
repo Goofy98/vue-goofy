@@ -1089,13 +1089,13 @@ module.exports = function escape(url) {
 /* 30 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "go2-aaa.png";
+module.exports = __webpack_require__.p + "go2-goofy.png";
 
 /***/ }),
 /* 31 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "go1-aaa.png";
+module.exports = __webpack_require__.p + "go1-goofy.png";
 
 /***/ }),
 /* 32 */
