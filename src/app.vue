@@ -1,6 +1,5 @@
 <template>
 	<div id="app">
-		<div id="cover"></div>
 		<Header></Header>
 		<todo></todo>
 		<Footer></Footer>
@@ -34,14 +33,5 @@ export default{
 	bottom 0
 	height 100%
 }
-#cover{
-	position absolute
-	left 0
-	top 0
-	right 0
-	bottom 0
-	background-color #999
-	opacity: .6
-	z-index -1 
-}
+
 </style>

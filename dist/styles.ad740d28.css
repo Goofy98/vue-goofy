@@ -13,9 +13,10 @@ body {
   height: 100%;
 }
 body {
-  background-image: url(ac-goofy.jpg);
+  background-image: url(duo-goofy.jpg);
   background-position: center;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #4d4d4d;
   font-smooothing: antialiased;

@@ -464,7 +464,6 @@ exports.default = {
 //
 //
 //
-//
 
 /***/ }),
 /* 7 */
@@ -711,7 +710,7 @@ new __WEBPACK_IMPORTED_MODULE_0_vue__["default"]({
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_app_vue__ = __webpack_require__(6);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_app_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_app_vue__);
 /* unused harmony namespace reexport */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_3c2522ff_hasScoped_true_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_app_vue__ = __webpack_require__(39);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_fb93494c_hasScoped_true_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_app_vue__ = __webpack_require__(39);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__node_modules_vue_loader_lib_runtime_component_normalizer__ = __webpack_require__(2);
 function injectStyle (context) {
   __webpack_require__(14)
@@ -726,14 +725,14 @@ var __vue_template_functional__ = false
 /* styles */
 var __vue_styles__ = injectStyle
 /* scopeId */
-var __vue_scopeId__ = "data-v-3c2522ff"
+var __vue_scopeId__ = "data-v-fb93494c"
 /* moduleIdentifier (server only) */
 var __vue_module_identifier__ = null
 
 var Component = Object(__WEBPACK_IMPORTED_MODULE_2__node_modules_vue_loader_lib_runtime_component_normalizer__["a" /* default */])(
   __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_app_vue___default.a,
-  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_3c2522ff_hasScoped_true_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_app_vue__["a" /* render */],
-  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_3c2522ff_hasScoped_true_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_app_vue__["b" /* staticRenderFns */],
+  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_fb93494c_hasScoped_true_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_app_vue__["a" /* render */],
+  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_fb93494c_hasScoped_true_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_app_vue__["b" /* staticRenderFns */],
   __vue_template_functional__,
   __vue_styles__,
   __vue_scopeId__,
@@ -755,7 +754,7 @@ if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
 var add = __webpack_require__(1).default
-var update = add("86005e64", content, true, {});
+var update = add("20f86337", content, true, {});
 
 /***/ }),
 /* 15 */
@@ -766,7 +765,7 @@ exports = module.exports = __webpack_require__(0)(false);
 
 
 // module
-exports.push([module.i, "#app[data-v-3c2522ff]{height:100%}#app[data-v-3c2522ff],#cover[data-v-3c2522ff]{position:absolute;left:0;right:0;top:0;bottom:0}#cover[data-v-3c2522ff]{background-color:#999;opacity:.6;z-index:-1}", ""]);
+exports.push([module.i, "#app[data-v-fb93494c]{position:absolute;left:0;right:0;top:0;bottom:0;height:100%}", ""]);
 
 // exports
 
@@ -1226,7 +1225,7 @@ var staticRenderFns = []
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return staticRenderFns; });
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"app"}},[_c('div',{attrs:{"id":"cover"}}),_vm._v(" "),_c('Header'),_vm._v(" "),_c('todo'),_vm._v(" "),_c('Footer')],1)}
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"app"}},[_c('Header'),_vm._v(" "),_c('todo'),_vm._v(" "),_c('Footer')],1)}
 var staticRenderFns = []
 
 
